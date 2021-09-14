@@ -1,4 +1,10 @@
 43631917
 David Mamani Pari
 
-951782520
+951782520print
+("Hola Mundo")
+a=50
+b=10
+print("suma:",(a+b))
+print("resta:",(a-b))
+print("multiplicacion:",(a*b)
